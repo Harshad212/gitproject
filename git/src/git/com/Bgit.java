@@ -17,6 +17,8 @@ public static void main(String[] args) {
 	
 	
 	System.out.println(h);
+	System.out.println(h);
+	System.out.println(h);
 	
 	Set<Integer> key = h.keySet();
 	System.out.println(key);
